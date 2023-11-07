@@ -93,5 +93,15 @@ p {
     margin-top: 3%; 
 }
   
-
+a {
+    color:blue;
+    text-decoration: none; 
+}
   
+.image-container {
+    display: flex; /* Use flexbox to create a horizontal layout */
+}
+
+.image-container img {
+    margin-right: 10px; /* Add some spacing between the images (adjust as needed) */
+}
